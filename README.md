@@ -1,1 +1,1 @@
-# rhumbnail-app
+# thumbnail-app
